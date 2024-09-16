@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Int314/bookmarklet-development-template/issues"
   },
-  "homepage": "https://github.com/Int314/bookmarklet-development-template#readme"
+  "homepage": "https://github.com/Int314/bookmarklet-development-template#readme",
+  "devDependencies": {
+    "google-closure-compiler": "^20240317.0.0"
+  }
 }
