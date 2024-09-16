@@ -1,0 +1,19 @@
+{
+  "name": "bookmarklet-development-template",
+  "version": "1.0.0",
+  "description": "This is a template for developing bookmarklets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Int314/bookmarklet-development-template.git"
+  },
+  "author": "Int314",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Int314/bookmarklet-development-template/issues"
+  },
+  "homepage": "https://github.com/Int314/bookmarklet-development-template#readme"
+}
