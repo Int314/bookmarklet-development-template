@@ -1,3 +1,3 @@
-javascript:(function(){
+javascript:(() => {
 alert("Hello, Bookmarklet!");
 ;})();
