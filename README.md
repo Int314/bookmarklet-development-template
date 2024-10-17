@@ -38,6 +38,11 @@ First, install the project dependencies.
 npm install
 ```
 
+### コードを書く
+`src/main.js`にブックマークレットに変換したいJavaScriptのコードを書きます。
+
+Write the JavaScript code you want to convert to a bookmarklet in `src/main.js`.
+
 ### ビルド
 
 次に、ビルドスクリプトを実行してブックマークレットを生成します。
@@ -48,12 +53,12 @@ Next, run the build script to generate the bookmarklet.
 npm run build
 ```
 
-ビルドが成功すると、dist/bookmarklet.js にブックマークレットが生成されます。
+ビルドが成功すると、`dist/bookmarklet.js`にブックマークレットが生成されます。
 
-If the build is successful, a bookmarklet will be generated in dist/bookmarklet.js.
+If the build is successful, a bookmarklet will be generated in `dist/bookmarklet.js`.
 
 ブックマークレットの使用
-生成された dist/bookmarklet.js の内容をコピーし、ブラウザのブックマークに貼り付けて使用します。
+生成された`dist/bookmarklet.js`の内容をコピーし、ブラウザのブックマークに貼り付けて使用します。
 
 Using the bookmarklet
-Copy the contents of the generated dist/bookmarklet.js and paste it into your browser's bookmarklet.
+Copy the contents of the generated `dist/bookmarklet.js` and paste it into your browser's bookmarklet.
